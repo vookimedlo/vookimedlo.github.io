@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Michal's projects
 
-You can use the [editor on GitHub](https://github.com/vookimedlo/vookimedlo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- :link:[win32/x64 **glibc regex2** library](https://github.com/vookimedlo/glibc-win/tree/glibc-2.24_vs2015_regex) built by Visual Studio 2015
+- :link:[win32/x64 **zlib** library](https://github.com/vookimedlo/zlib/tree/vs2015) built by Visual Studio 2015
+- :link:[win32/x64 **libmagic** library and **file** executable](https://github.com/vookimedlo/file-win/tree/vookimedlo) built by Visual Studio 2015
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vookimedlo/vookimedlo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
