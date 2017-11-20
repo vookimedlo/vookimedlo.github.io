@@ -5,14 +5,15 @@
  - [win32/x64 **zlib** library](https://github.com/vookimedlo/zlib/tree/vs2015) built by Visual Studio 2015,
  - [win32/x64 **libmagic** library and **file** executable](https://github.com/vookimedlo/file-win/tree/vookimedlo) built by Visual Studio 2015,
  - [Alfred 2.x Plugin - sharing screenshots via Dropbox](https://github.com/vookimedlo/alfred-dropbox-screenshot) for OSX/MacOS only,
- - [Alfred 3.x Plugin - displays an information about various video files](https://github.com/vookimedlo/alfred-ffprobe) for OSX/MacOS only.
+ - [Alfred 3.x Plugin - displays an information about various video files](https://github.com/vookimedlo/alfred-ffprobe) for OSX/MacOS only,
+ - [Alfred 3.x Plugin - displays actual AirBank currency exchange rates](https://github.com/vookimedlo/alfred-airbank-currency-rates) for OSX/MacOS only,
  - [Alfred 3.x Theme - based on the Emacs subtle-hacker theme](https://github.com/vookimedlo/alfred-subtle-hacker-theme) for OSX/MacOS only.
 
 ----------
 ### Interesting knowledge base *(not written by me)*
 
- - [What is 3D Printing?](https://www.3dhubs.com/what-is-3d-printing) - The definitive guide to additive manufacturing
- - [Linux Containers](https://linuxcontainers.org/) - Infrastructure for container projects
+ - [What is 3D Printing?](https://www.3dhubs.com/what-is-3d-printing) - The definitive guide to additive manufacturing,
+ - [Linux Containers](https://linuxcontainers.org/) - Infrastructure for container projects.
 
 
 
