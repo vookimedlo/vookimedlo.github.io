@@ -8,6 +8,7 @@
  - [Alfred 3.x Plugin - displays actual AirBank currency exchange rates](https://github.com/vookimedlo/alfred-airbank-currency-rates) for OSX/MacOS only,
  - [Alfred 3.x Plugin - takes screenshots in various ways](https://github.com/vookimedlo/alfred-various-screenshots) for OSX/MacOS only,
  - [Alfred 3.x Plugin - shows and opens your GitHub Gists](https://github.com/vookimedlo/alfred-github-gists) for OSX/MacOS only,
+ - [Alfred 3.x Plugin - shows and opens your GitHub Repositories](https://github.com/vookimedlo/alfred-github-repositories) for OSX/MacOS only,
  - [Alfred 3.x Plugin - computes file digest [md5, sha-1, ...]](https://github.com/vookimedlo/alfred-file-checksums) for OSX/MacOS only,
  - [Alfred 3.x Plugin - evaluates bitwise expressions](https://github.com/vookimedlo/alfred-bitwise-evaluator) for OSX/MacOS only,
  - [Alfred 3.x Theme - based on the Emacs subtle-hacker theme](https://github.com/vookimedlo/alfred-subtle-hacker-theme) for OSX/MacOS only.
