@@ -11,6 +11,7 @@
  - [Alfred 3.x Plugin - shows and opens your GitHub Repositories](https://github.com/vookimedlo/alfred-github-repositories) for OSX/MacOS only,
  - [Alfred 3.x Plugin - computes file digest [md5, sha-1, ...]](https://github.com/vookimedlo/alfred-file-checksums) for OSX/MacOS only,
  - [Alfred 3.x Plugin - evaluates bitwise expressions](https://github.com/vookimedlo/alfred-bitwise-evaluator) for OSX/MacOS only,
+ - [Alfred 3.x Plugin - makes app icon [icns] based on the selected input image](https://github.com/vookimedlo/alfred-make-appicon) for OSX/MacOS only,
  - [Alfred 3.x Theme - based on the Emacs subtle-hacker theme](https://github.com/vookimedlo/alfred-subtle-hacker-theme) for OSX/MacOS only.
 
 ----------
