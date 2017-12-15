@@ -1,4 +1,7 @@
 theme: jekyll-theme-slate
-gems:
+plugins:
   - jemoji
-  
+
+title: Michal Duda [Vookimedlo]
+description: Miscellaneous projects and tweaks I had to do for my needs.
+google_analytics: UA-111263771-1
