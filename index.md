@@ -13,6 +13,7 @@
  - [Alfred 3.x Plugin - evaluates bitwise expressions](https://github.com/vookimedlo/alfred-bitwise-evaluator) for OSX/MacOS only,
  - [Alfred 3.x Plugin - makes app icon [icns] based on the selected input image](https://github.com/vookimedlo/alfred-make-appicon) for OSX/MacOS only,
  - [Alfred 3.x Theme - based on the Emacs subtle-hacker theme](https://github.com/vookimedlo/alfred-subtle-hacker-theme) for OSX/MacOS only.
+ - [Docker images - Ubuntu Xenial with the most recent Qt framework](https://hub.docker.com/r/vookimedlo/ubuntu-qt/) useful for Travis-CI.
 
 ----------
 ### Interesting knowledge base *(not written by me)*
