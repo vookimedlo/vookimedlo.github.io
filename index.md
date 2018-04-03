@@ -12,6 +12,7 @@
  - [Alfred 3.x Plugin - computes file digest [md5, sha-1, ...]](https://github.com/vookimedlo/alfred-file-checksums) for OSX/MacOS only,
  - [Alfred 3.x Plugin - evaluates bitwise expressions](https://github.com/vookimedlo/alfred-bitwise-evaluator) for OSX/MacOS only,
  - [Alfred 3.x Plugin - makes app icon [icns] based on the selected input image](https://github.com/vookimedlo/alfred-make-appicon) for OSX/MacOS only,
+ - [Alfred 3.x Plugin - says a given text or a file content with a selected voice.](https://github.com/vookimedlo/alfred-say-you-say-me) for OSX/MacOS only,
  - [Alfred 3.x Theme - based on the Emacs subtle-hacker theme](https://github.com/vookimedlo/alfred-subtle-hacker-theme) for OSX/MacOS only.
  - [Docker images - Ubuntu Xenial with the most recent Qt framework](https://hub.docker.com/r/vookimedlo/ubuntu-qt/) useful for Travis-CI.
 
@@ -20,7 +21,3 @@
 
  - [What is 3D Printing?](https://www.3dhubs.com/what-is-3d-printing) - The definitive guide to additive manufacturing,
  - [Linux Containers](https://linuxcontainers.org/) - Infrastructure for container projects.
-
-
-
-
