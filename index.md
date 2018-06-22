@@ -5,6 +5,7 @@
  - [win32/x64 **zlib** library](https://github.com/vookimedlo/zlib/tree/vs2015) built by Visual Studio 2015,
  - [win32/x64 **libmagic** library and **file** executable](https://github.com/vookimedlo/file-win/tree/vookimedlo) built by Visual Studio 2015,
  - [Alfred 3.x Workflow - displays an information about various video files](https://github.com/vookimedlo/alfred-ffprobe) for OSX/MacOS only,
+ - [Alfred 3.x Workflow - displays an information about content of given files](https://github.com/vookimedlo/alfred-file) for OSX/MacOS only,
  - [Alfred 3.x Workflow - displays actual AirBank currency exchange rates](https://github.com/vookimedlo/alfred-airbank-currency-rates) for OSX/MacOS only,
  - [Alfred 3.x Workflow - takes screenshots in various ways](https://github.com/vookimedlo/alfred-various-screenshots) for OSX/MacOS only,
  - [Alfred 3.x Workflow - shows and opens your GitHub Gists](https://github.com/vookimedlo/alfred-github-gists) for OSX/MacOS only,
