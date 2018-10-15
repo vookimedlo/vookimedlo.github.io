@@ -16,6 +16,7 @@
  - [Alfred 3.x Workflow - says a given text or a file content with a selected voice](https://github.com/vookimedlo/alfred-say-you-say-me) for OSX/MacOS only,
  - [Alfred 3.x Workflow - controls Bluetooth and WiFi adapters](https://github.com/vookimedlo/alfred-adapters) for OSX/MacOS only,
  - [Alfred 3.x Workflow - lookup a .cz domain in nic.cz whois database](https://github.com/vookimedlo/alfred-whois-nic-cz) for OSX/MacOS only,
+ - [Alfred 3.x Workflow - controls a Tunnelblick VPN](https://github.com/vookimedlo/alfred-vpn-tunnelblick) for OSX/MacOS only,
  - [Alfred 3.x Theme - based on the Emacs subtle-hacker theme](https://github.com/vookimedlo/alfred-subtle-hacker-theme) for OSX/MacOS only,
  - [Docker images - Ubuntu Xenial with the most recent Qt framework](https://hub.docker.com/r/vookimedlo/ubuntu-qt/) useful for Travis-CI.
 
