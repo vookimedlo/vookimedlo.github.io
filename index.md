@@ -1,3 +1,7 @@
+
+[![Vookimedlo's github stats](https://github-readme-stats.vercel.app/api?username=vookimedlo)](https://github.com/vookimedlo/)
+
+
 ### Projects
 
  - [CK550-MacOS](https://github.com/vookimedlo/ck550-macos) is a MacOS software for controlling the CoolerMaster CK550 keyboard (US Layout).
